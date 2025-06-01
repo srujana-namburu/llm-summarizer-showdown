@@ -66,14 +66,20 @@ python app.py
 facebook/bart-large-cnn	google/pegasus-xsum
 Summary	The United Nations has signed a global climate accord with 190+ countries to cut emissions by 45% by 2030, focusing on clean energy, methane, and forests.	A global climate deal has been signed to reduce emissions by 45% by 2030 with 190+ countries aiming at clean energy and forest preservation.
 Clarity (1–5)	⭐⭐⭐⭐☆ (4)	⭐⭐⭐⭐☆ (4)
+
 Accuracy (1–5)	⭐⭐⭐⭐⭐ (5)	⭐⭐⭐⭐☆ (4)
+
 Conciseness (1–5)	⭐⭐⭐⭐☆ (4)	⭐⭐⭐⭐⭐ (5)
+
 User Preference	✅ BART selected as preferred output	❌
 
 ### 📊 Report Card (Visualization)
 Metric	BART (facebook/bart-large-cnn)	PEGASUS (google/pegasus-xsum)
+
 Clarity	4	4
+
 Accuracy	5	4
+
 Conciseness	4	5
 
 Winner: 🥇 facebook/bart-large-cnn (based on majority votes)
